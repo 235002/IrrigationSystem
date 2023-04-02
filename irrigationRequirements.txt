@@ -1,0 +1,5 @@
+1. Sensor musi skalibrować min i max wartości
+2. Sensor musi zapisywać dane w bazie danych
+3. Trzeba przechowywać info na temat, temp, wilg, czasu pomiaru, dzialania pompy, jak dlugo dzialala pompa,
+4. Opracowac algorytm sterujacy silnikiem na podstawie danych z czujnika, bazy danych roslin, zaplanowanego cyklu uzytkownika
+5. Opracowac latwy dostep do aplikacji
